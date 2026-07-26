@@ -1,0 +1,25 @@
+<!--
+generated: '2026-07-18'
+method: generated
+source: apis.yml + digitaliron.com (no provider-published /llms.txt; HTTP 404)
+-->
+# Digital Iron
+
+> Digital Iron is an AI platform delivering aftersales intelligence for heavy machinery. It helps equipment dealers and OEMs turn scattered service data — machine history, product documentation, customer records, bills of materials, work orders, and technician notes — into faster troubleshooting, accurate parts identification, and reliable job quoting.
+
+Digital Iron serves the heavy machinery aftersales market (excavators, crushers, compaction rollers, and similar equipment). By aggregating and reasoning over service data, the platform surfaces recurring failure patterns across fleets to improve first-time fix rates. It is backed by Seedcamp and tracked in the API Evangelist network as a portfolio company. No public API, developer portal, or SDKs have been identified at the time of writing; the product is delivered as a hosted application.
+
+## Company
+- [Digital Iron home](https://www.digitaliron.com/): Company overview and aftersales intelligence value proposition.
+- [For Dealers](https://www.digitaliron.com/for-dealers/): How dealers use Digital Iron for troubleshooting, parts finding, and job quoting.
+- [For OEMs](https://www.digitaliron.com/for-oems/): How OEMs use aggregated service data to improve products and support.
+- [Contact Us](https://www.digitaliron.com/contact/): Company contact page.
+- [Book a Demo](https://calendly.com/joel-xpce/digital-iron-demo-call): Schedule a product demo call.
+
+## Platform
+- [Sign In](https://platform.digitaliron.ai/login): Login to the hosted Digital Iron application.
+
+## Notes for agents
+- There is no public REST/GraphQL API, OpenAPI specification, SDK, or developer documentation published as of 2026-07-18.
+- The product is a gated web application at platform.digitaliron.ai; access requires an account.
+- For integration or data-access questions, use the Contact Us page or book a demo.
