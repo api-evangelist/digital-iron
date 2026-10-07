@@ -1,0 +1,29 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.digitaliron.com/
+sources:
+- https://www.digitaliron.com/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T112025
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: flat-platform
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Marketing homepage with a pricing section stating a starting monthly subscription price; no tiers
+  or per-seat charges.
+plan_count: 1
+currency: USD
+plans:
+- name: Monthly subscription
+  price_text: From $2200 /Month
+  price: 2200
+  currency: USD
+  period: month
+  included_quota: No contract. No cost per seat. Just a straightforward monthly subscription that you
+    can cancel at any time.
