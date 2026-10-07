@@ -61,6 +61,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Pricing
+  url: https://www.digitaliron.com/
+- type: Plans
+  url: plans/digital-iron-plans-pricing.yml
 - url: https://www.digitaliron.com/feed/
   type: BlogRSS
 - type: Website
